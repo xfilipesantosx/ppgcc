@@ -1,2 +1,2 @@
 # ppgcc
-Códigos desenvolvidos durante o PPGCC.
+Códigos desenvolvidos durante as disciplinas do PPGCC.
